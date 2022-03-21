@@ -1,9 +1,6 @@
-no=1
-while no<=8:
-    i=0
-    while i<=8:
-        print(no,end="* ")
-        i+=1
-    print()
-    no+=1
-    
+day=1
+amo=1
+while day<=30:
+	print(amo,end=' ')
+	amo=amo*2
+	day+=1
