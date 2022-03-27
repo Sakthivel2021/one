@@ -1,7 +1,3 @@
-for end in range(6,2,-1):
-	total=1
-	for no in range(1,end):
-		total=total*no
-	else:
-		print(total)
-		
+for day in range(1,6):
+	amt=day**3
+	print(amt, end='  ')
