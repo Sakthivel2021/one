@@ -1,3 +1,5 @@
-for day in range(1,6):
-	amt=day**3
-	print(amt, end='  ')
+
+list=[]
+list.append("wjdjdj")
+list.append(("sjdjdk" ,"kjdjfjfj"))
+print(list)
