@@ -10,7 +10,6 @@ for i in range(small):
 i=high-small
 for no in range(i,high):
 	a.append(q[no])
-	
 print(a)	
 			 
 			 
