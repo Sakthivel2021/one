@@ -1,8 +1,11 @@
+def calculate(no1,no2):
+	sum=no1+no2
+	sub=no1-no2
+	mul=no1*no2
+	div=no2/no1
+	return sum,sub,mul,div
 
-intake="aahfckgkuutkgvktkgk"
-l=[]
-for letter in intake:
-	print(letter,end="")
-	if letter not in l:
-		l.append(letter)
-print(l)
+no1=12
+no2=21
+
+print(calculate(no1,no2))
