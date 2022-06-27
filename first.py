@@ -1,7 +1,9 @@
-for i in range(5):
-    if i==5:
+no=6
+for div in range(2,no):
+    if no%div==0:
+        print("not prime")
         break
-    else:
-        print(i)
+        
 else:
-    print("coderslearing")
+    print("prime")
+        
