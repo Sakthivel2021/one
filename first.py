@@ -1,9 +1,7 @@
-no=6
-for div in range(2,no):
-    if no%div==0:
-        print("not prime")
-        break
-        
-else:
-    print("prime")
-        
+f=-1
+s=1
+for no in range(1,20):
+    t=f+s
+    print(t)
+    f=s
+    s=t
