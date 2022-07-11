@@ -9,3 +9,4 @@ for i in s:
     
 print(l-x)
 print(l)
+print(x)
