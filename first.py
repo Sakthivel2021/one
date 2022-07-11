@@ -8,3 +8,4 @@ for i in s:
     l+=1
     
 print(l-x)
+print(l)
