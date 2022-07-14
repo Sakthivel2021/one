@@ -1,11 +1,4 @@
-s=input("enter your name--")
-
-l=0
-x=0
-for i in s:
-    if i==' ':
-        x+=1
-    l+=1
-    
-print(l-x)
+a=1
+b=2
+print(a+b)
 
