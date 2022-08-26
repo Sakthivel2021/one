@@ -1,6 +1,1 @@
-print(" world")
-
-    
-            
-
-    
+print("helo world")
