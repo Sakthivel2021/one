@@ -1,3 +1,4 @@
+
 no1=1
 no2=100
 for no in range(no1,no2):
