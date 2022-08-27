@@ -1,6 +1,6 @@
 
 no1=1
-no2=100
+no2=150
 for no in range(no1,no2):
     for div in range(2,no):
         if no%div==0:
